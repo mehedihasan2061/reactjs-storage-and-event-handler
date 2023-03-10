@@ -6,9 +6,9 @@ const fakedb = (id) => {
     if (storedCart) {
        shoppingCart=JSON.parse(storedCart) 
     }
-    else {
-        shoppingCart = {};
-    }
+    // else {
+    //     shoppingCart = {};
+    // }
 
 
     //add quantity
