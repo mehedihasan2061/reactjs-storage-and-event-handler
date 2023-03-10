@@ -1,0 +1,38 @@
+[
+  {
+    "id": "640b5edb86081eb303bb9fa3",
+    "salary": 26683,
+    "name": "Alston Hunt",
+    "email": "alstonhunt@isoplex.com"
+  },
+  {
+    "id": "640b5edba279728aaf24ba10",
+    "salary": 29189,
+    "name": "Elise Wilder",
+    "email": "elisewilder@isoplex.com"
+  },
+  {
+    "id": "640b5edb308f028ba6069d68",
+    "salary": 38863,
+    "name": "Becker Sykes",
+    "email": "beckersykes@isoplex.com"
+  },
+  {
+    "id": "640b5edb4094a5ccd063df01",
+    "salary": 39821,
+    "name": "Christie Massey",
+    "email": "christiemassey@isoplex.com"
+  },
+  {
+    "id": "640b5edb410a54f2aa830b82",
+    "salary": 33064,
+    "name": "Bennett Norton",
+    "email": "bennettnorton@isoplex.com"
+  },
+  {
+    "id": "640b5edb396a2433b46983e3",
+    "salary": 32903,
+    "name": "Willa Chambers",
+    "email": "willachambers@isoplex.com"
+  }
+]
