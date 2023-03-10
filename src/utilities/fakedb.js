@@ -26,6 +26,8 @@ const fakedb = (id) => {
      localStorage.setItem("shopping-cart", JSON.stringify(shoppingCart));
 }
 
+//remove from local storage data......
+
 const removeFromDb = id => {
     const storedCart = localStorage.getItem('shopping-cart');
     const shoppingCart=JSON.parse(storedCart)
